@@ -109,17 +109,7 @@ We aim to understand the characteristics of different Iris species by analyzing 
 
 ---
 
-## **10. Project Structure**
-
-TASK 1/
-│
-├─ Task1_Iris_EDA.ipynb # Jupyter Notebook with analysis and visualizations
-├─ README.md # Project explanation (this file)
-
-
----
-
-## **11. References**
+## **10. References**
 
 - [Seaborn Iris Dataset Documentation](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)  
 - [Scikit-Learn RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)  
