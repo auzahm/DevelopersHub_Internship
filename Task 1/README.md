@@ -2,7 +2,7 @@
 
 **Internship:** Data Science & Analytics  
 **Organization:** DevelopersHub Corporation  
-**Author:** Auzah Mansoor
+**Author:** Auzah Mansoor  
 **Date:** 28/11/2025
 
 ---
